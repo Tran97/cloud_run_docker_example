@@ -17,4 +17,4 @@ steps:
   - '--region'
   - 'europe-west1'
 images:
-  - 'gcr.io/ultra-zenith-410711/gcp-test-app:latest''
+  - 'gcr.io/ultra-zenith-410711/gcp-test-app:latest'
